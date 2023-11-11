@@ -57,4 +57,5 @@ def gif(text):
         video_writer.release()
 
 # Example usage:
-gif("This is a longer text to test the scrolling functionality with a longer message. This text is considerably longer to demonstrate paragraph-style scrolling.")
+gif("If you believe that deceivers are colorful folk who mislead with elaborate lies and tall tales, you are greatly mistaken. The best deceivers utilize a
+bland and inconspicuous front that calls no attention to themselves")
