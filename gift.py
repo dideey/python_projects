@@ -16,6 +16,7 @@ def gif(text):
     background_colour = (0, 0, 0)
     font = ImageFont.load_default()
 
+    #handling the text length and paragraph sorting
     text_lines = []  # Split text into lines to simulate a paragraph
     words = text.split()
     current_line = ''
