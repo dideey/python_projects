@@ -56,6 +56,6 @@ def gif(text):
 
         video_writer.release()
 
-# Example usage:
+# example
 gif("If you believe that deceivers are colorful folk who mislead with elaborate lies and tall tales, you are greatly mistaken. The best deceivers utilize a
 bland and inconspicuous front that calls no attention to themselves")
