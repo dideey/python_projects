@@ -34,7 +34,7 @@ def gif(text):
 
     numframes = (total_text_height + image_height)
     speed = 10
-    output_file = "gif.mp4"
+    output_file = "file.png"
     fourcc = cv2.VideoWriter_fourcc(*"mp4v")
     video_writer = cv2.VideoWriter(output_file, fourcc, speed, (image_width, image_height))
     while True:
